@@ -1,0 +1,158 @@
+{
+    "AboutMe":"My name is Caitlin Dalwai and I am a student at Life Choices",
+    "Projects":[
+        {  
+            "name":"Calculator",
+            "github":"https://github.com/caitlin-dalwai/Calculator-JS.git",
+            "vercel":"https://calculator-js-pearl.vercel.app/",
+            "description":"A simple calculator built using JavaScript, HTML, and CSS",
+            "image":"URL"
+        },
+        {  
+            "name":"BMI Calculator",
+            "github":"https://github.com/caitlin-dalwai/BMI-calculator.git",
+            "vercel":"https://bmi-calculator-omega-lilac.vercel.app/",
+            "description":"",
+            "image":"URL"
+        },
+        {  
+            "name":"Temperature Converter",
+            "github":"https://github.com/caitlin-dalwai/Temperature.git",
+            "vercel":"https://temperature-mocha.vercel.app/",
+            "description":"",
+            "image":"URL"
+        },
+        {  
+            "name":"Portfolio Project",
+            "github":"https://github.com/caitlin-dalwai/Bootstrap-Project.git",
+            "vercel":"https://bootstrap-project-drab.vercel.app/index.html",
+            "description":"",
+            "image":"URL"
+        },
+        {  
+            "name":"Keyboard",
+            "github":"https://github.com/caitlin-dalwai/Keyboard.git",
+            "vercel":"https://keyboard-alpha-three.vercel.app/",
+            "description":"",
+            "image":"URL"
+        },
+        {  
+            "name":"Swegga Project",
+            "github":"https://github.com/caitlin-dalwai/swegga.git",
+            "vercel":"https://swegga-tau.vercel.app/",
+            "description":"",
+            "image":"URL"
+        },
+        {  
+            "name":"Zooming Cards",
+            "github":"https://github.com/caitlin-dalwai/Cards.git",
+            "vercel":"https://cards-steel-gamma.vercel.app/",
+            "description":"",
+            "image":"URL"
+        },
+        {  
+            "name":"To do list",
+            "github":"https://github.com/caitlin-dalwai/Todo1.git",
+            "vercel":"https://todo-pied-xi-98.vercel.app/",
+            "description":"",
+            "image":"URL"
+        }
+    ],
+    "education":[
+        {
+            "description":["Learning Html CSS git and javaScript, Will be an intern by October and study python"],
+            "year":"2nd of April - present day",
+            "placeOfInstitution":"Life Choices",
+            "contact":[
+                {
+                    "name": "Candice Amon",
+                    "contactDetails":"+27 21 696 4157"
+                }
+            ]
+        },
+        {
+            "description":["Physical Science French Biology and pure Mathematics, Member of Chamber choir( the touring choir ),Hockey and swimming"],
+            "year":"2018-2022",
+            "placeOfInstitution":"Rustenburg Girls' High school",
+            "contact":[
+                {
+                    "name": "RGHS",
+                    "contactDetails":"+27 21 686 4066"
+                }
+            ]
+        }
+    ],
+    "skills":[
+        {
+        "name":"HTML",
+        "image":"URL"
+    },
+        {
+        "name":"CSS",
+        "image":"URL"
+    },
+        {
+        "name":"GIT",
+        "image":"URL"
+    },
+        {
+        "name":"JAVASCRIPT",
+        "image":"URL"
+    },
+        {
+        "name":"BOOTSTRAP",
+        "image":"URL"
+    }
+],
+"workExp":[
+    {
+        "placeOfWork":"",
+        "year":"",
+        "description":"",
+        "contact":{
+            "name":"",
+            "cell":"",
+            "position":""
+        }
+    }
+],
+"testimonials":[
+    {
+        "name":"",
+        "position":"",
+        "message":"",
+        "image":"URL"
+    },
+    {
+        "name":"",
+        "position":"",
+        "message":"",
+        "image":"URL"
+    },
+    {
+        "name":"",
+        "position":"",
+        "message":"",
+        "image":"URL"
+    },
+    {
+        "name":"",
+        "position":"",
+        "message":"",
+        "image":"URL"
+    },
+    {
+        "name":"",
+        "position":"",
+        "message":"",
+        "image":"URL"
+    },
+    {
+        "name":"",
+        "position":"",
+        "message":"",
+        "image":"URL"
+    }
+]
+
+}
